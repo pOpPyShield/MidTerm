@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MidTerm</string>
+    <string name="ds_sp">Danh sách sản phảm</string>
+    <string name="ma_sp">Ma sp</string>
+    <string name="ma_sp_hint">Ma sp</string>
+    <string name="mo_ta">Mo ta</string>
+    <string name="mo_ta_hint">Mo ta</string>
+    <string name="gia_tien">Gia tien</string>
+    <string name="gia_tien_hint">Gia Tien</string>
+    <string name="them_str">Them</string>
+</resources>
